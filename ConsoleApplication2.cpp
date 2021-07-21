@@ -25,6 +25,6 @@ int main() {
 	k += h[i][j];
 	}
 	}
-	cout <<"Сума непарних чисел: "<< k;
+	cout <<"The sum of odd numbers: "<< k;
 	return 0;
 }
