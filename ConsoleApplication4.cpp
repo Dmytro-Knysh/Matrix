@@ -48,11 +48,11 @@ int main()
 		}
 	if (flag)
 	{
-		cout << "Рядок номер: " << q << endl;
+		cout << "Line number: " << q << endl;
 	}
 	else
 	{
-		cout << "Не існує рядків з однаковими елементами";
+		cout << "There are no rows with the same elements";
 	}
 	return 0;
 }
