@@ -46,11 +46,11 @@ int main()
 	}
 	if (flag)
 	{
-		cout << "Стовбець номер: "<<s;
+		cout << "Column number: "<<s;
 	}
 	else
 	{
-		cout << 0 <<" такого стовбця не існує";
+		cout << 0 <<" Such a column does not exist";
 	}
 	return 0;
 }
