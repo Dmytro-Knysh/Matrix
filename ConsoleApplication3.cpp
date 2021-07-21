@@ -39,7 +39,7 @@ int main()
 	}
 	for (int i = 0; i < n; i++)
 	{
-		cout << "Мінімальний елемент у " << i << " рядку:" << MIN[i] << endl;
+		cout << "Minimum item in line "<< i <<":" << MIN[i] << endl;
 	}
 	for (int j = 0; j < m; j++)
 	{
@@ -55,7 +55,7 @@ int main()
 	}
 	for (int i = 0; i < m; i++)
 	{
-		cout << "Максимальний елемент у " << i << " стовпці:" << MAX[i] << endl;
+		cout << "Maximum item in "<< i <<" column:" << MAX[i] << endl;
 	}
 	return 0;
 }
